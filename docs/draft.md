@@ -16,4 +16,3 @@ Este documento é apenas uma base para ideação e rascunho desse repositório.
     - Introdução.
     - Pré-requisitos.
     - Cadastrando uma chave PIX.
-    - Configurando sua chave PIX.
